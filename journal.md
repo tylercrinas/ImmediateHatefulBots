@@ -9,3 +9,5 @@ Today I didn't get as far as I would have liked. I had a lot of difficulty at th
 ## April 6th, 2020
 
 Today I will try to mimic funimation
+
+I did not get far in my attempt today, my keyboard broke for my ipad so I had to manually type every bit of code.
